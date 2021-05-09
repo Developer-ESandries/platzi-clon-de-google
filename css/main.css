@@ -58,6 +58,7 @@ nav .nav-right-section img {
     text-align: center;
     background: linear-gradient(to bottom, #72147e, #f21170);
     min-height: 472px;
+    max-height: 90vh;
 }
 
 main .main-logo{
